@@ -1,9 +1,9 @@
 Aquí tienes todo los apartados explicados Adri:
 
-- 🔮 [Apartado 1](Descargas/Apartado%201.md)
-- 🧠 [Apartado 2](Descargas/Apartado%202.md)
-- 🛡️ [Apartado 3](Descargas/Apartado%203.md)
-- 🕰️ [Apartado 4](Descargas/Apartado%204.md)
+- 🔮 [Apartado 1](Descargas/Apartado1.md)
+- 🧠 [Apartado 2](Descargas/Apartado2.md)
+- 🛡️ [Apartado 3](Descargas/Apartado3.md)
+- 🕰️ [Apartado 4](Descargas/Apartado4.md)
 
 
 
