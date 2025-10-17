@@ -1,2 +1,0 @@
-**1\.** En este, como los colores de mi página eran todos bastante blanquecinos, pues entonces, no vi muy necesario cambiar los colores blanquecinos predeterminados de la aplicación que me veía en el Screenshot, decidí por cambiar la ambientación de la aplicación y en vez de hacerlo con las imágenes, puse cositas ambientadas en *Black Clover*. Pero, por ejemplo para que veas que estoy informado, *Adobe Color* es una página muy útil para extraer colores de ficheros e imágenes
-
